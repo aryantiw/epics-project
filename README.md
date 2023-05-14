@@ -95,6 +95,3 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 </ul>
 
 
-<h2 id="acknowledgement">Acknowledgement</h2>
-
-
