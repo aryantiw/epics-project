@@ -4,7 +4,7 @@ import numpy as np
 
 # Load the trained model and vectorizer
 with open('dtree.pkl', 'rb') as f:
-    dtree = pickle.load(f)
+    model = pickle.load(f)
 
 with open('vectorizer.pkl', 'rb') as f:
     vectorizer = pickle.load(f)
