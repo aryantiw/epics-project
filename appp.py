@@ -21,8 +21,6 @@ def predict_sentiment(preprocessed_text):
         return 'neutral'
     elif prediction == 0:
         return 'positive'
-    elif prediction == -1:
-        return 'negative'
     else:
         return 'Neutral'
 
